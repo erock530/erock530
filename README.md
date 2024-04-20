@@ -4,7 +4,7 @@ Welcome to my GitHub profile!  I'm an experienced Systems Engineer & DevOps Engi
 
 ## About me
 
-I have 20 years experience working professionally in IT. My specialty is Linux and I keep up with the ever-evolving software and systems engineering landscapes. 
+Hi, I'm Eric. With over 20 years of experience in IT, I have extensive expertise in DevOps, systems automation, and systems engineering. I am dedicated to keeping pace with the constantly evolving landscape of software technologies.
 
 ## Technologies
 
